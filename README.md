@@ -1,0 +1,2 @@
+# Newsletter
+Automatic newsletter project
